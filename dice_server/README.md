@@ -7,3 +7,6 @@ To download and run this app locally you'll need to:
 1. From inside the dice_server folder, use this command to run the server - env FLASK_APP=dice_server.py flask run
 
 Enjoy!
+
+Related blog post - 
+https://mayareads.blog/2019/07/30/flask/
